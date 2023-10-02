@@ -1,4 +1,4 @@
-# 🏃‍♀️ BOOTSRAP
+# 🏃‍♀️ BOOTSTRAP
 
 ## 📌 FICHE ID.
 
@@ -24,7 +24,7 @@ Comprendre :
 
 ## 🌐 TECHNO & LANGUAGE UTILISÉ
 
-- Bootsrap
+- Bootstrap
 
 ## ⏰ ÉTAT D'AVANCEMENT
 
