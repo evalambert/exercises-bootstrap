@@ -1,4 +1,4 @@
-# 🏃‍♀️ BOOTSTRAP
+# 🏃‍♀️ EXERCICES BOOTSTRAP
 
 ## 📌 FICHE ID.
 
